@@ -147,7 +147,7 @@ nav ul a:hover {
 }
 
 #about-us .item1 .image-1 {
-    background: #333 url("img/1-1.jpg") no-repeat center/cover;
+    background: #333 url("../img/1-1.jpg") no-repeat center/cover;
 }
 
 #about-us .btn-1 {
@@ -163,7 +163,7 @@ nav ul a:hover {
 }
 
 #about-us .item2 .image-2 {
-    background: #333 url("img/1-2.jpg") no-repeat center/cover;
+    background: #333 url("../img/1-2.jpg") no-repeat center/cover;
 }
 
 #about-us .btn-2 {
