@@ -58,7 +58,7 @@
   }
 
   #our-services .item5 .image-5 {
-    background: #333 url("/img/4-5.jpg") no-repeat 80% 30%;
+    background: #333 url("img/4-5.jpg") no-repeat 80% 30%;
   }
 
   #contact .grid-container {
